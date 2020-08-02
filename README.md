@@ -12,6 +12,12 @@ A social media platform that connects all international students around universi
               * Node.js
               * Express
               * Firebase
+* Frond-End
+    * React.js
+        * Sub-nested bullet etc
+* Back-End   
+    * Nested bullet
+        * Sub-nested bullet etc
 
 
 ## Installing
