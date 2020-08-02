@@ -2,6 +2,17 @@
 
 A social media platform that connects all international students around universities and matches them with the best guidance and opportunities.
 
+## Technologies 
+* Front-End
+              * React.js
+              * Redux.js
+              * MapBox
+   
+* Back-End
+              * Node.js
+              * Express
+              * Firebase
+
 
 ## Installing
 
@@ -23,7 +34,7 @@ npm install
 
 ### Authentication
 
-You can sign up with your regular email and log in.
+sign up with your regular email and log in.
 
 <img width="959" alt="signup" src="https://user-images.githubusercontent.com/24450230/89129854-7013f700-d509-11ea-9cbe-5bb355d5d174.png">
 
@@ -33,14 +44,14 @@ You can sign up with your regular email and log in.
 
 ### Posting
 
-users can write a post with or without an image in the main page.
+write a post with or without an image in the main page.
 
 <img width="959" alt="main" src="https://user-images.githubusercontent.com/24450230/89129883-8b7f0200-d509-11ea-81cc-0ab4230b7bbe.png">
 
 
 
 ### Comment
-ability to comment, like, and unlike to any post. 
+ability to comment, like, or unlike any post. 
 
 <img width="958" alt="comment" src="https://user-images.githubusercontent.com/24450230/89129876-88841180-d509-11ea-9355-524469ce932d.png">
 
@@ -56,7 +67,7 @@ a dynamic map where you can search for people on the map and filter the result a
 
 
 ### Chat
-a public chat where you can join different rooms and chat with other online users. 
+a public chat where you can join different rooms and chat with online users. 
 
 <img width="956" alt="chat1" src="https://user-images.githubusercontent.com/24450230/89129872-8621b780-d509-11ea-95a8-ee054cf9c8b6.png">
 
@@ -74,6 +85,14 @@ view other's profiles and add them to your friends list
 <img width="959" alt="profile2" src="https://user-images.githubusercontent.com/24450230/89129889-9043b600-d509-11ea-9bab-390e0f42c704.png">
 
 <img width="959" alt="friends" src="https://user-images.githubusercontent.com/24450230/89129880-8ae66b80-d509-11ea-9ece-343c00350edd.png">
+
+
+
+# Edit Details 
+ability to fill your data dynamically from your profile page. 
+
+<img width="960" alt="editdetails" src="https://user-images.githubusercontent.com/24450230/89129879-8a4dd500-d509-11ea-9205-1c5100fe4235.png">
+
 
 
 
