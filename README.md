@@ -51,7 +51,7 @@ sign up with your regular email and log in.
 
 write a post with or without an image in the main page.
 
-<img width="959" alt="main" src="https://user-images.githubusercontent.com/24450230/89129883-8b7f0200-d509-11ea-81cc-0ab4230b7bbe.png">
+<img width="957" alt="main" src="https://user-images.githubusercontent.com/24450230/89130686-92a90e80-d50f-11ea-8b2c-a73f3275b834.png">
 
 
 
