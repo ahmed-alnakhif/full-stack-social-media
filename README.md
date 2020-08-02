@@ -12,21 +12,22 @@ a social media platform that connects all international students around universi
 - [Connect with Friends](#Connect)
 
 
-### Installing
 
+### Installing
 
 ```
 npm install
 ```
 
 
-# Posting
 
-# Comment
+### Posting
 
-# Map
+### Comment
 
-# Chat
+### Map
 
-# Connect
+### Chat
+
+### Connect
 
