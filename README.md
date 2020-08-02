@@ -2,22 +2,21 @@
 
 A social media platform that connects all international students around universities and matches them with the best guidance and opportunities.
 
+
+
 ## Technologies 
-* Front-End
-              * React.js
-              * Redux.js
-              * MapBox
-   
-* Back-End
-              * Node.js
-              * Express
-              * Firebase
+
 * Frond-End
     * React.js
-        * Sub-nested bullet etc
-* Back-End   
-    * Nested bullet
-        * Sub-nested bullet etc
+    * Redux
+    * MapBox
+
+
+* Back-End
+    * Node.js
+    * Express
+    * Firebase
+    
 
 
 ## Installing
