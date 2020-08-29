@@ -32,8 +32,8 @@ npm install
 - [Posting](#Posting)
 - [Comments and likes](#Comment)
 - [Map & Searching](#Map)
-- [Chat](#Chat)
-- [Connect with Friends](#Connect)
+- [Public Chat](#Chat)
+- [Connecting with Friends](#Connect)
 
 
 
