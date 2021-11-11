@@ -18,14 +18,6 @@ A social media platform that connects all international students around universi
     * Firebase
     
 
-
-## Installing
-
-```
-npm install
-```
-
-
 ## Features
 
 - [Authentication](#Authentication)
