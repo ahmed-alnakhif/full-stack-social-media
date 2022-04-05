@@ -10,6 +10,7 @@ A social media platform that connects all international students around universi
     * React.js
     * Redux
     * MapBox
+    * Socket.io
 
 
 * Back-End
